@@ -75,12 +75,12 @@ const gallery = [
   {
     title: "Anuncio luminoso exterior",
     category: "Letreros luminosos",
-    image: "/anuncio-luminoso-exterior.jpg",
+    image: "/fachada-comercial.jpg",
   },
   {
     title: "Fachada comercial",
     category: "Fachadas",
-    image: "/fachada-comercial.jpeg",
+    image: "/anuncio-luminoso-exterior.jpg",
   },
   {
     title: "Letras 3D interiores",

@@ -23,13 +23,13 @@ const projects = [
     title: "Anuncios luminosos exteriores",
     category: "Letreros luminosos",
     text: "Trabajos para negocios que necesitan destacar de noche y ser visibles desde la calle.",
-    image: "/anuncioluminoso.png",
+    image: "/fachadacomercial1.png",
   },
   {
     title: "Fachadas comerciales",
     category: "Fachadas",
     text: "Renovación visual de locales con volumen, color, iluminación y materiales comerciales.",
-    image: "/fachadacomercial1.png",
+    image: "/anuncioluminoso.png",
   },
   {
     title: "Letras 3D interiores",
