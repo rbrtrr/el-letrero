@@ -1,7 +1,7 @@
-﻿import styles from "../interior.module.css";
+import styles from "../interior.module.css";
 
 const WHATSAPP_LINK =
-  "https://wa.me/526861234567?text=Hola%20El%20Letrero%2C%20quiero%20cotizar%20un%20proyecto";
+  "https://wa.me/5216863166145?text=Hola%20El%20Letrero%2C%20quiero%20cotizar%20un%20proyecto";
 
 export default function FloatingWhatsApp() {
   return (
