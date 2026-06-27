@@ -10,12 +10,36 @@ html,
 body {
   margin: 0;
   padding: 0;
+  width: 100%;
+  min-height: 100%;
 }
 
 body {
   background: #070707;
+  color: #ffffff;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
 }
 
 img {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
   max-width: 100%;
 }
